@@ -9,10 +9,10 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Let's chat!
+          Let&apos;s chat!
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me today! I'm always open to new opportunities!
+          Reach out to me today! I&apos;m always open to new opportunities!
         </p>
         <a href="mailto:barryxpaul@gmail.com">
           <MagicButton

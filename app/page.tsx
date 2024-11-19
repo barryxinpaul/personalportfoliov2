@@ -1,7 +1,6 @@
 import Hero from "@/components/Hero";
 import {FloatingNav} from "@/components/ui/FloatingNav";
 import { navItems } from "@/data";
-import { VscAccount } from "react-icons/vsc";
 import Grid from "@/components/Grid";
 import RecentProjects from "@/components/RecentProjects";
 import Experience from "@/components/Experience";

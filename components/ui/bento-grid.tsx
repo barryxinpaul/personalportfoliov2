@@ -1,7 +1,6 @@
 'use client';
 
 import { cn } from "@/lib/utils";
-import { div, object, span } from "framer-motion/client";
 import {BackgroundGradientAnimation} from "@/components/ui/background-gradient"
 import { Vortex } from "./vortex";
 import { useState} from "react";
@@ -33,8 +32,6 @@ export const BentoGridItem = ({
   className,
   title,
   description,
-  header,
-  icon,
   id,
   img,
   imgClassName,
