@@ -83,11 +83,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "ChatBot AI",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "BuddyBot - AI Coding Tutor",
+      des: "Provides you code with easy to follow explinations and examples in terminal UI.",
+      img: "/BuddyBot.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fig.svg",],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/barryxinpaul/buddybot---coding-tutor",
     },
   ];
   
@@ -115,6 +115,7 @@ export const navItems = [
       title: "Software Developer Intern",
       time: "May 2024 - Aug 2024",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      link: "https://www.propelholdings.com/",
       className: "md:col-span-2",
       thumbnail: "/propel.png",
     },
@@ -123,14 +124,16 @@ export const navItems = [
       title: "Product Operations Analyst",
       time: "Apr 2024 - Aug 2024",
       desc: "Designed and developed mobile app features and formulated a US Market Expansion strategy.",
+      link: "https://hottakesapp.com/",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/hottakes.jpeg",
     },
     {
       id: 3,
       title: "Pro-Bono Consultant",
-      time: "2023-2024",
-      desc: "Formulated Go-To Strategy for 10mm VC backed Startup developing an AI assistant.",
+      time: "2023-present",
+      desc: "Formulated Go-To Strategy for 10mm VC backed Startup developing an AI assistant. Previous client: Lab3",
+      link: 'https://www.getbagel.com/',
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/bagelai.jpeg",
     },

@@ -4,7 +4,6 @@ import { TextGenerateEffect } from './ui/text-generate-effect'
 import MagicButton from './ui/MagicButton'
 import { VscAccount } from "react-icons/vsc";
 
-
 const Hero = () => {
   return (
     <div className="pb-20 pt-36">
