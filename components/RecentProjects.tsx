@@ -18,6 +18,7 @@ const RecentProjects = () => {
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"
             key={item.id}
           >
+            <a href={item.link} target="_blank">
             <PinContainer
               title={item.link}
               href={item.link}
@@ -73,6 +74,7 @@ const RecentProjects = () => {
                 </div>
               </div>
             </PinContainer>
+            </a>
           </div>
         ))}
       </div>
