@@ -84,7 +84,7 @@ export const navItems = [
     {
       id: 2,
       title: "BuddyBot - AI Coding Tutor",
-      des: "Provides you code with easy to follow explinations and examples in terminal UI.",
+      des: "Provides you code with easy to follow explanations and examples in terminal UI.",
       img: "/BuddyBot.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fig.svg",],
       link: "https://github.com/barryxinpaul/buddybot---coding-tutor",
